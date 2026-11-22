@@ -1,1 +1,1 @@
-# WEB-My-Rubric-AI-Generator-Application
+# AI-WEB-My-Rubric-AI-Generator-Application
